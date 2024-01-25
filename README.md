@@ -1,7 +1,8 @@
 
-##### 👋 Hi there! I'm Amin Mardani, a curious programmer who never stops learning.
-##### 📖Currently, I'm improving my skills in accessibility and performance optimization to create inclusive and lightning-fast user experiences.
-
+👋 Hi there! I'm Amin Mardani, a curious programmer who never stops learning. <br />
+📖Currently, I'm improving my skills in accessibility and performance optimization to create inclusive and lightning-fast user experiences.
+<br />
+<br />
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
